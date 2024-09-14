@@ -1,0 +1,15 @@
+# ninja log v6
+3	84	7479885903924972	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+86	178	7479885904760940	binary_search_tree.exe	941a97bc08da5f25
+5	93	7479891400122640	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+93	193	7479891401003334	binary_search_tree.exe	941a97bc08da5f25
+5	89	7479897562156973	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+90	185	7479897562999961	binary_search_tree.exe	941a97bc08da5f25
+5	97	7479897766600155	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+98	193	7479897767536959	binary_search_tree.exe	941a97bc08da5f25
+5	88	7479898638245208	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+88	180	7479898639087202	binary_search_tree.exe	941a97bc08da5f25
+5	96	7479900044038251	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+97	197	7479900044955041	binary_search_tree.exe	941a97bc08da5f25
+4	87	7479900188401219	CMakeFiles/binary_search_tree.dir/main.c.obj	1229b0e50edce7d9
+87	177	7479900189234586	binary_search_tree.exe	941a97bc08da5f25
